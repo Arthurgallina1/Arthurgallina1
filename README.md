@@ -15,9 +15,9 @@ Currently working 100% remote as a Software Engineer to a Avenue 8 :us:.
 
 ### Techs
 ---
-- 💻 Mainly Javascript ecosystem
-- :fire: TypeScript, React, Next, Node, Nest, React Native
+- 💻 TypeScript, React, Next, Node, Nest, React Native
 - 🧪 Jest, React Testing Library, Cypress
+- :fire: Currently learning more about Blockchain, Solidity and EVM;
 - 📚 Always learning new things :)
 
 ---
