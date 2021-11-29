@@ -15,8 +15,8 @@ Currently working 100% remote as a Software Engineer to a Avenue 8 :us:.
 
 ### Techs
 ---
-- 💻 • Javascript & Typescript
-- 🚀: Front-end: React, Next and React Native.
+- 💻 Javascript & Typescript
+- 🚀 Front-end: React, Next and React Native.
 - 🏠 Back-end: Node, Nest, Express and Strapi (CMS).
 - 🧪 Testing: Jest, React Testing Library and Cypress - Unit, Integration and E2E.
 - 🏬 SQL & NoSQL databases: Postgres, MySQL, MongoDB and Redis.
