@@ -11,7 +11,7 @@ Software Engineer | Full-Stack Developer :robot:.
 BS in Computer Engineering from Universidade Tecnológica Federal do Paraná (2019) :brazil:.  <br/>
 International scholarship student at the State University of New York at New Paltz (2015-16) :us:.
 <br/>
-Currently working 100% remote as a Senior Software Engineer to a Brahma.fi.
+Currently working 100% remote as a Senior Software Engineer @ Brahma.fi.
 
 ### Techs
 ---
