@@ -1,7 +1,7 @@
 <!-- <img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/software-developer-2.png"> -->
 
 
-### Hey there, I'm Arthur
+### Arthur Gallina
 ---
 Software Engineer | Full-Stack Developer :robot:.
 <br/>
