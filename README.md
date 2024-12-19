@@ -19,7 +19,7 @@ Currently working 100% remote as a Senior Software Engineer @ Brahma.fi 🌐.
 
 ### Techs
 ---
-- 💻 Javascript & Typescript
+- 💻 Javascript/Typescript, Golang.
 - 🚀 Front-end: React, Next and React Native.
 - 🏠 Back-end: Node, Bun, Nest, Express.
 - ⛓️ Blockchain/Web3: Solidity, Foundry, Hardhat, Viem, Ethers, wagmi, web3.js.
