@@ -13,7 +13,7 @@ International scholarship student at the State University of New York at New Pal
 IT Project Management and Agile Methodologies graduate program at Universidade do Sul de Santa Catarina (2022) :brazil:
 <br/>
 <br/>
-Currently working 100% remote as a Senior Software Engineer @ Brahma.fi 🌐.
+Currently working 100% remote as a Senior Software Engineer @ Eternis 🌐.
 
  I lead a study group about fullstack web3 development, if you are interested joining please hit me up.
 
